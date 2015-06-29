@@ -1,2 +1,2 @@
 # bm-intro.burn.running
-a introduction for running/hiking on black mountain for burn
+an introduction for running/hiking on black mountain for burn
