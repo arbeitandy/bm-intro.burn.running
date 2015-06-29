@@ -1,2 +1,3 @@
-# bm-intro.burn.running
-an introduction for running/hiking on black mountain for burn
+# 跑黑山笔记
+
+一些关于黑山
