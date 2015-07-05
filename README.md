@@ -1,14 +1,14 @@
 # 跑黑山笔记
 ### 1 黑山有多高 它為啥叫黑山
   * 黑山高度 2,812' (857 m)
-  *　西班牙探险者一般把远处看起来黑色的山叫做黑山，加州就有100多座黑山，咱们平时爬的这个黑山在Rancho San Antonio. 
+  * 西班牙探险者一般把远处看起来黑色的山叫做黑山，加州就有100多座黑山，咱们平时爬的这个黑山在Rancho San Antonio. 
   * via [black mountain, wikipedia](https://en.wikipedia.org/wiki/Black_Mountain_(near_Los_Altos,_California))
 
 ### 2 黑山上有水站嗎？
 * 黑山周边水站
-  *    黑山停车场 有水站，厕所
-  *    Deer Hollow Farm 有水站，厕所
-  *　　黑山顶的Campsite 有非饮用水龙头
+  * 黑山停车场 有水站，厕所
+  * Deer Hollow Farm 有水站，厕所
+  * 黑山顶的Campsite 有非饮用水龙头
 
 ### 3 明天要參加黑山活動了 帶啥？(10mi 版，50k 版，作死版）
   *  10mi 装备 - 防晒，防滑越野鞋，800ml以上水，少量补给
